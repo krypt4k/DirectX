@@ -1,4 +1,4 @@
-# DirectX
+# Pipeline gráfico:DirectX
+#Enlaces de interes:
 
-Enlaces de interes:
 
